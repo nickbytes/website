@@ -4,7 +4,9 @@ date: '2018-10-11T02:29:19.560Z'
 layout: post
 stack: Next.js, Typescript, styled-components, Redux
 description: The textbook solutions hub for Barnes & Noble.
-draft: true
+draft: false
+linkText: null
+linkUrl: null
 img: './bartleby.png'
 ---
 

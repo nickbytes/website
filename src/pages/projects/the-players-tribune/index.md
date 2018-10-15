@@ -2,7 +2,10 @@
 title: The Players' Tribune
 date: '2018-10-13T17:37:06.057Z'
 layout: project
-draft: true
+draft: false
+renderPage: true
+linkText: null
+linkUrl: null
 description: A custom CRM system for managing athlete and agent relationships.
 stack: React, Apollo, Apollo-link-state, styled-components
 img: './jeter.webp'

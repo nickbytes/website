@@ -24,10 +24,10 @@ class BlogIndex extends React.Component {
         <Header />
 
         <Wrapper>
-          {posts.map(({ node }) => {
+          {posts.map(({ node }, id) => {
             const title = get(node, 'frontmatter.title') || node.fields.slug
             return (
-              <EachWrapper>
+              <EachWrapper key={id}>
                 <div>
                   {' '}
                   <ProjectImg
@@ -46,9 +46,19 @@ class BlogIndex extends React.Component {
                     <p style={{ fontStyle: 'italic', fontSize: '12px' }}>
                       {node.frontmatter.stack}
                     </p>
-                    <p>
-                      <Link to={node.fields.slug}>Read more →</Link>
-                    </p>
+                    {node.frontmatter.renderPage && (
+                      <p>
+                        <Link to={node.fields.slug}>Read more →</Link>
+                      </p>
+                    )}
+
+                    {node.frontmatter.linkText && (
+                      <p>
+                        <a href={node.frontmatter.linkUrl}>
+                          {node.frontmatter.linkText} →
+                        </a>
+                      </p>
+                    )}
                   </div>
                 </ProjectTxt>
               </EachWrapper>
@@ -80,6 +90,9 @@ export const pageQuery = graphql`
             title
             stack
             description
+            renderPage
+            linkText
+            linkUrl
             img {
               childImageSharp {
                 original {
