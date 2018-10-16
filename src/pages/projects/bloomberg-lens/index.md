@@ -3,10 +3,10 @@ title: Bloomberg Lens
 date: '2018-10-13T17:37:48.801Z'
 layout: project
 draft: false
-renderPage: true
+renderPage: false
 linkText: null
 linkUrl: null
-description: A new layer of financial insight to any news article, from any website.
+description: An iOS feature and Chrome extension that adds a new layer of financial insight to any news article, from any website.
 stack: Chrome extension, React, aphrodite, tachyons
 img: './bloomberg3.png'
 ---

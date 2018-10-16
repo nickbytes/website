@@ -5,9 +5,9 @@ layout: project
 stack: React, styled-components, Dat
 description: A p2p pixel art gallery built for the browser.
 draft: false
-renderPage: true
-linkText: null
-linkUrl: null
+renderPage: false
+linkText: Read more about the project
+linkUrl: https://pixel-gallery.hashbase.io/info
 img: './pixel-gallery.png'
 ---
 
