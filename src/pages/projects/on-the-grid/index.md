@@ -7,6 +7,6 @@ renderPage: false
 linkText: Visit site
 linkUrl: https://onthegrid.city/
 description: A collection of 530 neighborhood guides lovingly curated by local creatives in 107 cities around the world.
-stack: Siteleaf, HTML/CSS
+stack: Siteleaf, jQuery 🙃, HTML/CSS
 img: './onthegrid.png'
 ---
