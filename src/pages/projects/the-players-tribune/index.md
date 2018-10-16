@@ -8,7 +8,7 @@ linkText: Read the Postlight case study
 linkUrl: https://postlight.com/work/the-players-tribune
 description: A custom CRM system for managing athlete/agent relationships and tracking brand equity.
 stack: React, Apollo, Apollo-link-state, styled-components, Express, Postgres
-img: './jeter.webp'
+img: './labron.jpeg'
 ---
 
 Postlight built a brand website and custom CRM system for The Players' Tribune.
