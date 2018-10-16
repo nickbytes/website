@@ -35,7 +35,7 @@ class BlogPostTemplate extends React.Component {
         <PostWrapper>
           <PostTitle>{post.frontmatter.title}</PostTitle>
           <BodyText dangerouslySetInnerHTML={{ __html: post.html }} />
-          <PrevNext previous={previous} next={next} />
+          {/* <PrevNext previous={previous} next={next} /> */}
         </PostWrapper>
       </div>
     )
