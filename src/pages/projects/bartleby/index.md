@@ -5,8 +5,8 @@ layout: post
 stack: Next.js, Typescript, styled-components, Redux
 description: The textbook solutions hub for Barnes & Noble.
 draft: false
-linkText: null
-linkUrl: null
+linkText: Visit bartleby.com
+linkUrl: https://www.bartleby.com/
 img: './bartleby.png'
 ---
 
