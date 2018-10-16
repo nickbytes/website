@@ -5,6 +5,7 @@ import { Headline, Wrapper, Sub, Container } from './styles'
 const Header = () => (
   <Wrapper>
     <Container>
+      <Sub>🚧 WIP 🚧</Sub>
       <Headline>Nick Beattie</Headline>
       <Sub>Senior Software Engineer @ Postlight.</Sub>
 
