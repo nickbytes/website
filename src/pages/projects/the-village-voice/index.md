@@ -1,6 +1,6 @@
 ---
 title: The Village Voice
-date: '2018-10-13T17:37:26.785Z'
+date: '2018-09-13T17:37:26.785Z'
 layout: project
 draft: false
 renderPage: false

@@ -1,6 +1,6 @@
 ---
 title: Bartleby
-date: '2018-10-11T02:29:19.560Z'
+date: '2018-10-14T02:29:19.560Z'
 layout: post
 stack: Next.js, Typescript, styled-components, Redux
 description: The textbook solutions hub for Barnes & Noble.

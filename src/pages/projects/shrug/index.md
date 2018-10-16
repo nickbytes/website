@@ -1,11 +1,11 @@
 ---
 title: Shrug
-date: '2018-10-13T17:38:16.638Z'
+date: '2018-09-10T17:38:16.638Z'
 layout: project
 draft: false
-renderPage: true
-linkText: null
-linkUrl: null
+renderPage: false
+linkText: Download the app
+linkUrl: http://nickbytes.com/shrug/
 description: A Mac menubar app for ¯\_(ツ)_/¯
 stack: Electron
 img: './shrug.png'

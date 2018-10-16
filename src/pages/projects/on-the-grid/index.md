@@ -1,6 +1,6 @@
 ---
 title: On The Grid
-date: '2018-10-13T17:38:28.214Z'
+date: '2018-09-13T17:38:28.214Z'
 layout: project
 draft: false
 renderPage: false

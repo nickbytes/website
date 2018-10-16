@@ -1,6 +1,6 @@
 ---
 title: Mercury Reader
-date: '2018-10-13T17:37:35.593Z'
+date: '2018-09-14T17:37:35.593Z'
 layout: project
 draft: false
 renderPage: false

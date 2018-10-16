@@ -1,6 +1,6 @@
 ---
 title: Dead & Dead Lite
-date: '2018-10-13T22:12:04.168Z'
+date: '2018-09-12T22:12:04.168Z'
 layout: project
 draft: false
 renderPage: false
