@@ -9,6 +9,7 @@ renderPage: false
 linkText: Read more about the project
 linkUrl: https://pixel-gallery.hashbase.io/info
 img: './pixel-gallery.png'
+icon: 🖼
 ---
 
 pixel-gallery is a peer-to-peer pixel art gallery.

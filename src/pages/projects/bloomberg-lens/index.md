@@ -9,6 +9,7 @@ linkUrl: https://postlight.com/work/bloomberg
 description: An iOS feature and Chrome extension that adds a new layer of financial insight to any news article, from any website.
 stack: Chrome extension, React, aphrodite, tachyons
 img: './bloomberg3.png'
+icon: 🔎
 ---
 
 https://www.bloomberg.com/features/2017-lens/

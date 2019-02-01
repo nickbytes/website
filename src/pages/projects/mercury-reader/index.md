@@ -9,4 +9,5 @@ linkUrl: https://mercury.postlight.com/reader/
 description: A Chrome extension that removes ads and distractions, leaving only text and images for a beautiful reading view on any site. +1.1m users.
 stack: React, Redux, Aphrodite
 img: './mercury.jpg'
+icon: 🚀
 ---

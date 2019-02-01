@@ -22,6 +22,7 @@ exports.createPages = ({ graphql, actions }) => {
                     slug
                   }
                   frontmatter {
+                    icon
                     title
                     stack
                     renderPage

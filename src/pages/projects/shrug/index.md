@@ -9,6 +9,7 @@ linkUrl: http://nickbytes.com/shrug/
 description: A Mac menubar app for ¯\_(ツ)_/¯
 stack: Electron
 img: './shrug.png'
+icon: 🤷‍♀️
 ---
 
 I made this menubar app in 2015.

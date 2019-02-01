@@ -1,35 +1,47 @@
-import styled from "styled-components";
+import styled from 'styled-components'
 
 export const Headline = styled.h1`
-  font-size: 15px;
-  line-height: 18px;
+  font-size: 18px;
+  line-height: 23px;
   font-weight: normal;
   margin: 0;
-`;
+
+  @media (min-width: 768px) {
+    font-size: 24px;
+    line-height: 31px;
+  }
+`
 
 export const Sub = styled.h2`
   font-size: 15px;
-  line-height: 18px;
+  line-height: 23px;
   font-weight: normal;
   margin: 0 0 22px;
 
-  &:last-of-type {
-    margin-bottom: 0;
+  @media (min-width: 768px) {
+    font-size: 24px;
+    line-height: 34px;
+    margin: 0 0 40px;
   }
-`;
+`
 
 export const Wrapper = styled.div`
-  padding: 40px 10px;
+  padding: 60px 20px 40px;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
 
   @media (min-width: 768px) {
-    padding: 40px 20px;
+    padding: 100px 40px 60px;
   }
-`;
+
+  @media (min-width: 1000px) {
+    padding: 100px 20px 60px;
+  }
+`
 
 export const Container = styled.div`
-  max-width: 38em;
+  width: 100%;
+  max-width: 912px;
   margin: 0 auto;
-`;
+`

@@ -9,4 +9,5 @@ linkUrl: dat://linkstream.hashbase.io/
 description: A place to save links, powered by the Dat Protocol.
 stack: React, styled-components, Dat
 img: './linkstream.png'
+icon: 🔗
 ---

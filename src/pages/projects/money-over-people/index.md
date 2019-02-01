@@ -8,6 +8,7 @@ draft: false
 linkText: Visit moneyoverpeople.org
 linkUrl: https://www.moneyoverpeople.org/
 img: './moneyoverpeople.png'
+icon: 💰
 ---
 
 Money Over People

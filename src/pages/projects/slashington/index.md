@@ -8,6 +8,7 @@ draft: false
 linkText: Play slashington
 linkUrl: https://www.slashington.com/
 img: './slashington.png'
+icon: 🚉
 ---
 
 Slashington
