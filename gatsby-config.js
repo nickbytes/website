@@ -64,6 +64,14 @@ module.exports = {
         icon: `src/assets/gatsby-icon.png`,
       },
     },
+
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint:
+          'https://nickbytes.us7.list-manage.com/subscribe/post?u=51c42291ee90c0ec6ea19bccf&amp;id=891ef17db3',
+      },
+    },
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
   ],

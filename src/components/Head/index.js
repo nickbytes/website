@@ -7,7 +7,8 @@ const Head = ({ title }) => (
 
 html { box-sizing: border-box }
 *, *:before, *:after { box-sizing: inherit; }
-body { margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;font-family: 'Roboto Mono',sans-serif; }
+body { margin: 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Helvetica,sans-serif;
+  line-height: 1.5;}
 a:visited { color: blue; }
 `}</style>
   </Helmet>

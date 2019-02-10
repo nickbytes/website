@@ -9,4 +9,5 @@ linkUrl: https://onthegrid.city/
 description: A collection of 530 neighborhood guides lovingly curated by local creatives in 107 cities around the world.
 stack: Siteleaf, jQuery 🙃, HTML/CSS
 img: './onthegrid.png'
+icon: ☕️
 ---

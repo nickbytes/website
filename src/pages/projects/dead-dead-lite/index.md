@@ -9,4 +9,5 @@ linkUrl: https://medium.com/@james.ayres/introducing-dead-lite-c23e921bb5b5
 description: A decentralized CMS for the p2p web.
 stack: React, css-modules, Dat
 img: './dead-lite.png'
+icon: 🕸
 ---

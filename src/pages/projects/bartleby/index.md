@@ -8,6 +8,7 @@ draft: false
 linkText: Visit bartleby.com
 linkUrl: https://www.bartleby.com/
 img: './bartleby.png'
+icon: 📚
 ---
 
 Bartleby is a textbook solutions learning hub from Barnes & Noble.
