@@ -5,6 +5,7 @@ export const Headline = styled.h1`
   line-height: 23px;
   font-weight: normal;
   margin: 0;
+  color: #ffffff;
 
   @media (min-width: 768px) {
     font-size: 24px;
@@ -31,12 +32,23 @@ export const Wrapper = styled.div`
   justify-content: space-between;
   align-items: flex-start;
 
+  border-bottom: 1px solid #fff;
+
   @media (min-width: 768px) {
     padding: 100px 40px 60px;
   }
 
   @media (min-width: 1000px) {
     padding: 100px 20px 60px;
+  }
+
+  ${Sub} {
+    color: white;
+  }
+
+  a {
+    color: #01a7d0;
+    text-shadow: #ef596e 1px 0 10px;
   }
 `
 

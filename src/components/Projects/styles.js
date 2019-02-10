@@ -5,6 +5,11 @@ export const Wrapper = styled.div`
   padding: 0px 20px;
   list-style: circle;
 
+  a {
+    color: #01a7d0;
+    text-shadow: #ef596e 1px 0 10px;
+  }
+
   hr {
     width: 100px;
 

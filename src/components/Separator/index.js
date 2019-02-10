@@ -6,7 +6,7 @@ const Dot = styled.span`
   height: 10px;
   margin-bottom: 5px;
   margin-right: 5px;
-  border: 2px solid rgba(18, 171, 171, 0.4);
+  border: 2px solid rgba(0, 0, 0, 1);
   border-radius: 100%;
 `
 

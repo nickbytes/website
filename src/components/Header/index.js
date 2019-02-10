@@ -18,8 +18,11 @@ const Header = () => (
         <Sub>
           I'm currently interested in: developer tools, video streaming,
           decentralized applications, infrastructure tooling, security, games,
-          blockchain, React, Go, microservices, Elixir, Reason, Elm,
-          WebAssembly, and bicycles.
+          blockchain, React,{' '}
+          <a href="https://www.are.na/nick-beattie/learning-go-tdzciuurvsk">
+            learning Go
+          </a>
+          , microservices, Reason, Elm, WebAssembly, and bicycles.
         </Sub>
       </div>
     </Container>
