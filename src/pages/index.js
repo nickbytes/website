@@ -24,7 +24,13 @@ class BlogIndex extends React.Component {
     console.log(posts)
 
     return (
-      <div style={{ paddingBottom: '80px' }}>
+      <div
+        style={{
+          paddingBottom: '80px',
+          backgroundColor: '#000',
+          color: 'white',
+        }}
+      >
         <Head title={siteTitle} />
         <SectionGradient>
           <Header />
@@ -33,8 +39,6 @@ class BlogIndex extends React.Component {
         <Wrapper>
           <EachWrapper>
             <InnerContainer>
-              {/* <Sub>Selected Work:</Sub> */}
-              <Separator />
               <Sub>
                 I've been a Senior Software Engineer at{' '}
                 <a href="https://postlight.com/">Postlight</a> since 2016.
@@ -122,7 +126,6 @@ class BlogIndex extends React.Component {
         <Wrapper>
           <EachWrapper>
             <InnerContainer>
-              <Separator />
               <Sub>
                 I experimented with the{' '}
                 <a href="https://datproject.org/">Dat Protocol</a> and building
@@ -167,7 +170,6 @@ class BlogIndex extends React.Component {
         <Wrapper>
           <EachWrapper>
             <InnerContainer>
-              <Separator />
               <Sub>
                 I built a text adventure game called{' '}
                 <a href="https://www.slashington.com/">Slashington</a>. It's a
@@ -182,7 +184,6 @@ class BlogIndex extends React.Component {
         <Wrapper>
           <EachWrapper>
             <InnerContainer>
-              <Separator />
               <Sub>
                 <a href="https://twitter.com/davedawson">Dave Dawson</a>,{' '}
                 <a href="">Kunal Tandon</a>, and I built{' '}
@@ -197,7 +198,6 @@ class BlogIndex extends React.Component {
         <Wrapper>
           <EachWrapper>
             <InnerContainer>
-              <Separator />
               <Sub>
                 With <a href="http://www.hyperakt.com/">Hyperakt</a>, I built{' '}
                 <a href="https://onthegrid.city/">On The Grid</a>. It's a
