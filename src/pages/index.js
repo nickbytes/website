@@ -7,14 +7,10 @@ import Head from '../components/Head'
 import {
   Wrapper,
   EachWrapper,
-  ProjectTxt,
-  ProjectImg,
   InnerContainer,
 } from '../components/Projects/styles'
 import { Sub } from '../components/Header/styles'
 import SectionGradient from '../components/SectionGradient'
-import Mailer from '../components/Mailer'
-import Separator from '../components/Separator'
 
 class BlogIndex extends React.Component {
   render() {
@@ -40,8 +36,9 @@ class BlogIndex extends React.Component {
           <EachWrapper>
             <InnerContainer>
               <Sub>
-                I've been a Senior Software Engineer at{' '}
-                <a href="https://postlight.com/">Postlight</a> since 2016.
+                I was a Senior Software Engineer at{' '}
+                <a href="https://postlight.com/">Postlight</a> from 2016 to
+                2019.
               </Sub>
               <ul>
                 <li>
@@ -119,6 +116,19 @@ class BlogIndex extends React.Component {
                   </p>
                 </li>
               </ul>
+            </InnerContainer>
+          </EachWrapper>
+        </Wrapper>
+
+        <Wrapper>
+          <EachWrapper>
+            <InnerContainer>
+              <Sub>
+                James Ayres and I recently worked with the TokenTax team to
+                build a <a href="https://tokentax.co/">new website</a>, blog,
+                and component library.{' '}
+                <i>React, Razzle, Redux, Styled System, React Storybook</i>.
+              </Sub>
             </InnerContainer>
           </EachWrapper>
         </Wrapper>
