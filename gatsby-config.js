@@ -3,7 +3,7 @@ module.exports = {
     title: 'nickbytes',
     author: 'nickbytes',
     description: '',
-    siteUrl: '',
+    siteUrl: 'https://www.nickbytes.com',
   },
   plugins: [
     {
