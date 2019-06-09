@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nickbytes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nickbytes.com
+  * I am nickbytes (https://keybase.io/nickbytes) on keybase.
+  * I have a public key ASAxdH4ZdafKd9bFmm6pB2PEBwp1fxH5NVbyixyomUg8eAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b90a285fd6e09a4a4df21adf31735851dd63e9cbadc9f232da7097b56bd939c50a",
+      "host": "keybase.io",
+      "kid": "012031747e1975a7ca77d6c59a6ea90763c4070a757f11f93556f28b1ca899483c780a",
+      "uid": "262ded79e65102daa8c8b9291da37819",
+      "username": "nickbytes"
+    },
+    "merkle_root": {
+      "ctime": 1560113491,
+      "hash": "e33d67227613aa1f1fd709e424a2089f58b2df98afbcf3c1669815c7ea57bd9f0f4ac18744d7eda83197456e5d02dcc950f9e1e597c9485f483dcdd5d0d12bea",
+      "hash_meta": "5e8a42855ab83fe170035c65b9b1025d349fcb21fb3979fed3edc942c9ad56d4",
+      "seqno": 5538853
+    },
+    "service": {
+      "entropy": "VjowQy6O26wPSGXYdWZeJpQc",
+      "hostname": "nickbytes.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.0.0"
+  },
+  "ctime": 1560113520,
+  "expire_in": 504576000,
+  "prev": "4fa7f4599dca664c48400c849c7b277bdae2d7e69529e5af491b736e2cb857ae",
+  "seqno": 43,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMXR+GXWnynfWxZpuqQdjxAcKdX8R+TVW8oscqJlIPHgKp3BheWxvYWTESpcCK8QgT6f0WZ3KZkxIQAyEnHsne9ri1+aVKeWvSRtzbiy4V67EIN89FiK8CFJNpy0FsJhKkdEQvgdiu4K1hB9NHlsgCK25AgHCo3NpZ8RAs8y13ig3R75/tSBM0H6SeQ4SMe2ZEyw40rJHWV04uAzHuDzp354EH0mcjs40wxHksoWLoI5uuz1mC10+hUSJA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJQCZqNF39+EscJ2zFslzQNlNKS+lwJSuPqGmu/Od9Aho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nickbytes
+
+==================================================================
