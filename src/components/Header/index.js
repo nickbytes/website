@@ -1,6 +1,5 @@
 import React from 'react'
 import { Headline, Wrapper, Sub, Container } from './styles'
-import Mailer from '../Mailer'
 
 const Header = () => (
   <Wrapper>
