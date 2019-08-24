@@ -7,7 +7,7 @@ const Header = () => (
     <Container>
       <div>
         <Headline>Nick Beattie</Headline>
-        <Sub>Software Engineer – available for hire</Sub>
+        <Sub>Software Engineer</Sub>
         <Sub>
           <a href="https://github.com/nickbytes">github</a>·
           <a href="http://twitter.com/nicktweattie">twitter</a>·
@@ -16,13 +16,7 @@ const Header = () => (
       </div>
       <div>
         <Sub>
-          I'm currently interested in: developer tools, video streaming,
-          decentralized applications, writing, infrastructure tooling, security,
-          games, blockchain, React,{' '}
-          <a href="https://www.are.na/nick-beattie/learning-go-tdzciuurvsk">
-            learning Go
-          </a>
-          , microservices, Reason, Elm, WebAssembly, and bicycles.
+          Currently: building <a href="https://www.truework.com/">Truework</a>.
         </Sub>
       </div>
     </Container>

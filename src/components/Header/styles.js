@@ -32,8 +32,6 @@ export const Wrapper = styled.div`
   justify-content: space-between;
   align-items: flex-start;
 
-  border-bottom: 1px solid #fff;
-
   @media (min-width: 768px) {
     padding: 100px 40px 60px;
   }
