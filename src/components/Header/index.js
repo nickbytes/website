@@ -10,6 +10,7 @@ const Header = () => (
         <Sub>
           <a href="https://github.com/nickbytes">github</a>·
           <a href="http://twitter.com/nicktweattie">twitter</a>·
+          <a href="https://www.linkedin.com/in/nbeattie/">linkedin</a>·
           <a href="mailto:nick@nickbytes.com">email</a>
         </Sub>
       </div>
